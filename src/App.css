@@ -1,0 +1,34 @@
+.icon {
+	margin-right: 10px;
+}
+
+.hero-section {
+	margin: 70px auto;
+}
+
+.button-container {
+	margin-top: 30px;
+}
+
+.card-container {
+	margin: 50px auto;
+}
+
+.card {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.card-media {
+	padding-top: 56.25%; /* 16:9 */
+}
+
+.card-content {
+	flex-grow: 1;
+}
+
+.footer {
+	background-color: rgba(200, 200, 200, 0.5);
+	padding: 50px 0;
+}
